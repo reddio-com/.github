@@ -1,8 +1,8 @@
 <!-- Banner Image -->
 
 ![Reddio Banner](banner.png)
-Powering the next generation Web3 Apps, Games and Enterprises
-Scale your DApps in minutes with the leading layer 2 technology fully secured by Ethereum
+Powering the next generation Web3 Apps, Games and Enterprises. 
+Scale your DApps in minutes with the leading layer 2 technology fully secured by Ethereum. 
 
 ## SDKs and APIs
 
