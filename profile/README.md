@@ -5,6 +5,9 @@
 Powering the next generation Web3 Apps, Games and Enterprises.   
 Scale your DApps in minutes with the leading layer 2 technology fully secured by Ethereum. 
 
+## StarkNet
+- Cairo 1.0:<a href="https://github.com/reddio-com/cairo">Smart Contracts</a>
+
 ## SDKs and APIs
 
 - SDK repos: <a href="https://github.com/reddio-com/red-js-sdk">JavaScript</a> • <a href="https://github.com/reddio-com/reddio-sdk/tree/main/reddio-unity">Unity</a>
