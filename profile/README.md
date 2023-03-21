@@ -6,7 +6,7 @@ Powering the next generation Web3 Apps, Games and Enterprises.
 Scale your DApps in minutes with the leading layer 2 technology fully secured by Ethereum. 
 
 ## StarkNet
-- Cairo 1.0:<a href="https://github.com/reddio-com/cairo">Smart Contracts</a>
+- Cairo 1.0: <a href="https://github.com/reddio-com/cairo">Smart Contracts</a>
 
 ## SDKs and APIs
 
