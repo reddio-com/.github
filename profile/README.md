@@ -7,6 +7,7 @@ Scale your DApps in minutes with the leading layer 2 technology fully secured by
 
 ## StarkNet
 - Cairo 1.0: <a href="https://github.com/reddio-com/cairo">Smart Contracts</a>
+- Starknet Token App: <a href="https://github.com/reddio-com/starknet-token-bootstrap">Token App</a>
 
 ## SDKs and APIs
 
