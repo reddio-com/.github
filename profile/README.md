@@ -3,7 +3,10 @@
 ![Reddio Banner](banner.png)
 
 Powering the next generation Web3 Apps, Games and Enterprises.   
-Scale your DApps in minutes with the leading layer 2 technology fully secured by Ethereum. 
+High performance parallel Ethereum-compatible Layer 2, leveraging zero-knowledge technology to achieve unrivaled computation scale with Ethereum-level security. 
+
+## Parallel zkEVM
+- Modular Sequencer SDK: <a href="https://github.com/reddio-com/itachi">Itachi</a>
 
 ## StarkNet
 - Cairo 1.0: <a href="https://github.com/reddio-com/cairo">Smart Contracts</a>
