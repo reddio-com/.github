@@ -6,6 +6,7 @@ Powering the next generation Web3 Apps, Games and Enterprises.
 High performance parallel Ethereum-compatible Layer 2, leveraging zero-knowledge technology to achieve unrivaled computation scale with Ethereum-level security. 
 
 ## Parallel zkEVM
+- Reddio: <a href="https://github.com/reddio-com/reddio">Reddio</a>
 - Modular Sequencer SDK: <a href="https://github.com/reddio-com/itachi">Itachi</a>
 
 ## StarkNet
